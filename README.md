@@ -2,8 +2,7 @@
 
 ## Overview
 
-Self-directed ML project building a **predictive classifier for breast cancer diagnosis** (benign vs malignant) with Support Vector Machines (SVM).  
-The workflow covers data cleaning, exploratory data analysis, feature ranking and selection, model benchmarking (Gradient Boosted Trees vs SVC), ROC/AUC evaluation, and hyperparameter tuning.
+Self-directed ML project building a **predictive classifier for breast cancer diagnosis** (benign vs malignant) with Support Vector Machines (SVM). The workflow covers data cleaning, exploratory data analysis, feature ranking and selection, model benchmarking (Gradient Boosted Trees vs SVC), ROC/AUC evaluation, and hyperparameter tuning.
 
 ### Dataset Sourced from Kaggle
 [Dataset Source Link](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data)
