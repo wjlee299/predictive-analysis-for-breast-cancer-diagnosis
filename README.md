@@ -1,4 +1,4 @@
-# SVC Predictive Analysis for Breast Cancer Diagnosis with
+# Predictive Analysis for Breast Cancer Diagnosis with SVC
 
 ## Overview
 
